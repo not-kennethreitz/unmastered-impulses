@@ -1,5 +1,7 @@
 # Unmastered Impulses by Infinite State (Kenneth Reitz)
 
+![album artwork](https://github.com/kennethreitz/unmastered-impulses/blob/master/unmastered-impulses.jpg?raw=true)
+
 Unmastered Impulses by Infinite State contains 13 tracks inspired by esoteric spiritual and philosophical concepts, explorations into the dream state, bipolar disorder, and a traumatic relationship.
 
 See the album's [official page](http://www.kennethreitz.org/unmastered-impulses) for more details.
